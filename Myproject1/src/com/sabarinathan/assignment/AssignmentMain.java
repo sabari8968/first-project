@@ -15,4 +15,4 @@ public class AssignmentMain {
         EmployeeUtilities.displayEmployeeDetails(manager);
         EmployeeUtilities.displayEmployeeDetails(developer);
     }
-}
+}  
